@@ -1,2 +1,4 @@
-# Control-System
-Numerical Computation, Control System
+## Control-System
+
+1. Control System
+2. Numerical Computation
